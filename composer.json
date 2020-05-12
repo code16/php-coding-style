@@ -1,0 +1,13 @@
+{
+  "name": "code16/php-coding-style",
+  "description": "Shared PHP style rules for PHP-CS-Fixer",
+  "license": "MIT",
+  "require": {
+    "friendsofphp/php-cs-fixer": "^2.16"
+  },
+  "autoload": {
+    "files": [
+      "./src/helpers.php"
+    ]
+  }
+}
